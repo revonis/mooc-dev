@@ -1,3 +1,8 @@
+l'api de twitter permet de connaitre le nombre twitte sur une actualite donnée
+on y trouve à peu prés 15 opérateurs de recherches 
+ 
+ les principales commande git/ github: 
+
 Afficher l'aide de git:
 git help git
 
@@ -21,3 +26,6 @@ git branch (nouveau)
 
 Changer de branche:
 git ckeckout (branche)
+
+
+
