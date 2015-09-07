@@ -1,0 +1,41 @@
+html { 
+    background: url(../img/before_cookie.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+html body{
+    background: none;
+    color: #000000;
+}
+.container{
+    background-color: #F5F5DC;
+    opacity: .90;
+    position: relative;
+}
+
+ul li,p{
+    color: #000000 ;
+    font-size: 16px;
+    line-height: 28px;
+}
+ul li{
+    list-style: none;
+}
+h2{
+    background-color: #F5F5DC;
+    padding: 10px;
+    color:#000000;
+}
+
+@media (max-width: 768px) {
+    h2{
+        font-size:22px;
+        line-height: 26px;
+		color:#000000;
+    }
+    ul{
+        padding-left: 0;      
+    }
+}
